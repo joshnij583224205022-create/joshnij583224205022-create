@@ -1,4 +1,4 @@
-## Hi there 👋
+**## Hi there 👋
 
 <!--
 **joshnij583224205022-create/joshnij583224205022-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**Hi 👋, I’m Joshni
+🌈About Me
+🎓 I am currently pursuing second year B.Tech (Information Technology) at NPR College of Engineering and Technology,Natham
+🌎From Dindigul,Tamil Nadu
