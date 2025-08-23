@@ -17,7 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Hi 👋, I’m Joshni
-🌈About Me
-🎓 I am currently pursuing second year B.Tech (Information Technology) at NPR College of Engineering and Technology,Natham
-🌎From Dindigul,Tamil Nadu
+
